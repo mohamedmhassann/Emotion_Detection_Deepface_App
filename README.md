@@ -23,6 +23,9 @@ This application leverages the power of deep learning to perform real-time emoti
 -   **User-Friendly Interface**: Simple and clean UI for a smooth user experience.
 
 ## 📸 Image Analysis
+<img width="2559" height="1301" alt="Demo (2)" src="https://github.com/user-attachments/assets/fea29aef-20a7-4454-bfd0-7419d5aa01d8" />
+
+<img width="2559" height="1303" alt="Demo (1)" src="https://github.com/user-attachments/assets/829c16d4-757a-4fd1-97ac-bfff5181c6fe" />
 
 
 ---
