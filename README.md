@@ -93,7 +93,3 @@ Your web browser should automatically open to the application's URL (usually `ht
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please feel free to fork the repository and open a pull request.
-
-## 📄 License
-
-This project is distributed under the MIT License. You can add a `LICENSE` file to your project with the license text.
